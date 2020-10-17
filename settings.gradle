@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name = "Community Manager"
+rootProject.name = "DevCom"
